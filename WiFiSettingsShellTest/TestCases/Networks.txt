@@ -1,0 +1,45 @@
+﻿======================================================================= 
+======================= SHOW NETWORKS MODE=BSSID ====================== 
+=======================================================================
+
+ 
+Interface name : Wi-Fi 
+There are 6 networks currently visible. 
+
+SSID 1 : Network1
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : 00:0a:bb:32:ba:74
+         Signal             : 100%  
+         Radio type         : 802.11n
+         Channel            : 2 
+         Basic rates (Mbps) : 6 9 12 18 24 36 48 54
+
+SSID 2 : byfly WIFI
+    Network type            : Infrastructure
+    Authentication          : Open
+    Encryption              : None 
+    BSSID 1                 : ca:72:b5:81:d2:5b
+         Signal             : 30%  
+         Radio type         : 802.11n
+         Channel            : 1 
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+    BSSID 2                 : 78:f5:fd:be:1d:0b
+         Signal             : 70%  
+         Radio type         : 802.11n
+         Channel            : 4 
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+
+SSID 5 : BELTELECOM WIFI
+    Network type            : Infrastructure
+    Authentication          : Open
+    Encryption              : None 
+    BSSID 1                 : 28:57:1a:94:71:b5
+         Signal             : 42%  
+         Radio type         : 802.11g
+         Channel            : 8 
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
