@@ -1,0 +1,23 @@
+﻿
+There is 1 interface on the system: 
+
+    Name                   : Wi-Fi
+    Description            : Ralink RT3050 802.11b/g/n WiFi Adapter
+    GUID                   : B2E5DCAA-DBA5-4663-BA87-D6519E2FAB4C
+    Physical address       : e0:23:f2:ab:a5:87
+    State                  : connected
+    SSID                   : MySsid
+    BSSID                  : 00:0b:4a:34:fa:5c
+    Network type           : Infrastructure
+    Radio type             : 802.11n
+    Authentication         : WPA2-Personal
+    Cipher                 : CCMP
+    Connection mode        : Profile
+    Channel                : 2
+    Receive rate (Mbps)    : 65
+    Transmit rate (Mbps)   : 65
+    Signal                 : 100% 
+    Profile                : MySsid 
+
+    Hosted network status  : Not started
+
